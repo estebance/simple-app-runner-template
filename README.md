@@ -1,7 +1,6 @@
 # backend-test-open-ai
 
-The project is based on ResearchGpt, to analyze documents content and talk about it with chatgpt. 
-We are using APP RUNNER to configure the infra
+The project is just a template to generate an API ready to work with  AWS APP RUNNER
 
 ## Deploy the sample application
 

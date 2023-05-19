@@ -4,9 +4,9 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 from flask_cors import CORS
+from dotenv import load_dotenv
 from wsgiref.simple_server import make_server
 
-from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
